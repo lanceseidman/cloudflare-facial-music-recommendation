@@ -11,3 +11,5 @@ To get a users facial expression and determine the mood and find music to try an
 
 ## Requirements
 * Spotify API Key
+* Webcam (for Facial Recognition)
+* Node.js 20.9.0
